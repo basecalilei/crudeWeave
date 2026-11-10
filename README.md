@@ -1,6 +1,6 @@
 # crudeWeave by Crudebox
 
-**Open it:** https://GITHUB_USER.github.io/crudeWeave/
+**Open it:** https://basecalilei.github.io/crudeWeave/
 
 Drop in any image and see it as the Jacquard-woven tapestry fabric Crudebox cuts into hoodies. Zoom in for single threads, zoom out for the blanket look, and export the result as an image.
 
